@@ -66,7 +66,7 @@
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit" /><br>Scikit
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br>Pandas
+        <img src="https://techicons.dev/icons/pandas" width="48" height="48" alt="Pandas" /><br>Pandas
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br>NumPy
