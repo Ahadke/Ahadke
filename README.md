@@ -66,65 +66,7 @@
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit" /><br>Scikit
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br>Pandas
+        <img src="https://techicons.dev/icons/pandas" width="48" height="48" alt="Pandas" /><br>Pandas
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br>NumPy
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Matplotlib" /><br>Matplotlib
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br>SQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 🚀 Projects
-
-| # | Project Name | Domain | Tech Stack & Skills | End-to-End | Git Repo |
-|:-:|:-------------|:-------|:--------------------|:----------:|:--------:|
-| 01 | **RFM Customer Segmentation**<br>_Unsupervised clustering for retention._ | 🛒 Retail Analytics<br>& Customer Behavior | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Clustering](https://img.shields.io/badge/K--Means_Clustering-F7931E?style=flat-square) ![RFM](https://img.shields.io/badge/RFM_Analysis-000?style=flat-square) ![Cohort](https://img.shields.io/badge/Cohort_Analysis-blue?style=flat-square) | ✅ | [![View Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahadke/RFM-Driven-Segmentation-and-Predictive-Retention-Modeling) |
-| 02 | **Amazon Trust Review System**<br>_Behavioral risk scoring system._ | 🛡️ Trust & Safety<br>& Fraud Detection | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![A/B Testing](https://img.shields.io/badge/A%2FB_Policy_Simulation-green?style=flat-square) ![Risk](https://img.shields.io/badge/Behavioral_Risk_Scoring-red?style=flat-square) ![Temporal](https://img.shields.io/badge/Temporal_Analysis-ff69b4?style=flat-square) | ✅ | [![View Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahadke/Amazon-Trust-Review-System) |
-| 03 | **Enterprise Demand Forecasting**<br>_Causal & probabilistic time-series._ | 📈 Supply Chain<br>& Demand Planning | ![Prophet](https://img.shields.io/badge/Prophet-000000?style=flat-square) ![Probabilistic](https://img.shields.io/badge/Probabilistic_Modeling-8A2BE2?style=flat-square) ![Causal](https://img.shields.io/badge/Causal_Inference-000?style=flat-square) ![Time Series](https://img.shields.io/badge/Time_Series_Analysis-3F4F75?style=flat-square) | ✅ | [![View Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahadke/Enterprise-Scale-Causal-Probabilistic-Demand-Forecasting-System) |
-
-<br/>
-
-## ⚡ GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahadke&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="General Stats" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Ahadke&theme=radical&hide_border=true" alt="Streak Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahadke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahadke&color=ff69b4" alt="Profile Views" />
-</div>
+        <img src="data:image/png;base64,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
