@@ -3,15 +3,15 @@
   <h1>Hi, I'm Aayusha Hadke</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;MS+CS+%40+UC+Davis+%F0%9F%8E%93;Building+Scalable+ML+Systems+%F0%9F%9A%80;Time-Series+%26+Probabilistic+Modeling+%F0%9F%93%88;Analytics+%E2%86%92+Insight+%E2%86%92+Action+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_RESUME_LINK">
@@ -21,17 +21,23 @@
 
 <br/>
 
+## 👩‍💻 About Me
+
 <div align="center">
   <p width="60%">
-    🎓 <b>MS in Computer Science @ UC Davis</b> • 🎓 <b>BE in Computer Eng @ Pune University</b><br><br>
-    I enjoy working at the intersection of <b>Data Science, Machine Learning, and Decision Systems</b>.<br>
+    I enjoy working at the intersection of <b>Data Science, Machine Learning, and Decision Systems</b>.<br> 
     I turn messy, real-world data into <b>clean, interpretable, and production-ready solutions</b>.
+  </p>
+  
+  <p>
+    🎓 <b>MS in Computer Science</b> @ UC Davis<br>
+    🎓 <b>B.E. in Computer Engineering (Honors in Data Science)</b> – Pune University
   </p>
 </div>
 
----
+<br/>
 
-<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
   <table>
@@ -63,10 +69,10 @@
         <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br>Pandas
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br>SQL
+        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br>NumPy
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
+        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Matplotlib" /><br>Matplotlib
       </td>
     </tr>
     <tr>
@@ -77,13 +83,13 @@
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br>SQL
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
       </td>
     </tr>
   </table>
@@ -91,7 +97,7 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Projects
 
 | # | Project Name | Domain | Tech Stack & Skills | End-to-End | Git Repo |
 |:-:|:-------------|:-------|:--------------------|:----------:|:--------:|
@@ -101,24 +107,24 @@
 
 <br/>
 
-<h2 align="center">⚡ GitHub Analytics</h2>
+## ⚡ GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="General Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahadke&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="General Stats" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Streak Stats" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=Ahadke&theme=radical&hide_border=true" alt="Streak Stats" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahadke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahadke&color=ff69b4" alt="Profile Views" />
 </div>
