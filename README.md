@@ -3,7 +3,7 @@
 <!-- ============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Aayusha%20Hadke&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&color=0:9F7AEA,50:C084FC,100:E9D5FF&desc=Software%20Engineer%20•%20AI%20•%20Machine%20Learning%20•%20MSCS%20@%20UC%20Davis&descAlignY=58&animation=fadeIn" alt="Aayusha Hadke"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Aayusha%20Hadke&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=4C1D95&animation=fadeIn&color=0:F5F3FF,50:E9D5FF,100:C4B5FD&desc=Software%20Engineer%20•%20AI%20•%20Machine%20Learning%20•%20MSCS%20@%20UC%20Davis&descAlignY=58&descColor=6D28D9"/>
 </p>
 
 <p align="center">
@@ -33,16 +33,19 @@ Artificial Intelligence • Machine Learning • Data Science • Software Engin
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,sql,bash" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,r,html,css,sql" alt="Languages"/>
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,pytorch,tensorflow" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flutter,pytorch,tensorflow,sklearn" alt="Frameworks & AI"/>
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongodb,mysql,postgres,firebase" alt="Cloud & Databases"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongodb,postgres,redis,firebase,graphql" alt="Cloud & Databases"/>
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" alt="Developer Tools"/>
 </p>
 
 ---
