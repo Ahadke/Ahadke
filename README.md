@@ -19,11 +19,7 @@
 
 ## About Me
 
-M.S. Computer Science student at the **University of California, Davis**, with experience across artificial intelligence, machine learning, data analytics, business intelligence, and data engineering.
-
-I enjoy building intelligent systems, analytical pipelines, predictive models, and interactive dashboards that transform complex data into actionable insights.
-
----
+M.S. Computer Science student at the **University of California, Davis**,
 
 ## Tech Stack
 
