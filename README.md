@@ -90,21 +90,6 @@ M.S. Computer Science student at the **University of California, Davis**,
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahadke&background=0D1117&ring=C084FC&fire=B794F4&currStreakNum=E9D5FF&sideNums=C084FC&currStreakLabel=D8B4FE&sideLabels=B794F4&dates=A78BFA&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahadke&bg_color=0D1117&color=C084FC&line=9F7AEA&point=E9D5FF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ## Currently Exploring
 
@@ -125,13 +110,6 @@ M.S. Computer Science student at the **University of California, Davis**,
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahadke&style=for-the-badge&color=c084fc" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E9D5FF,50:C084FC,100:9F7AEA&section=footer" alt="Footer"/>
-</p>
 
 <p align="center">
   Thanks for stopping by!
